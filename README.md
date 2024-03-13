@@ -1,10 +1,10 @@
-# TheMovieDatabaseForm
+# Form_TMDb
 The goal of this application is to create a REST service that:
 
-- Will show information about a movie by its title
-- Will shows a list of similar movies
+- Shows information about a movie by its title
+- Shows a list of similar movies
 
-This was created consuming the [The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction) (TMD) API (registration required):
+This was created consuming the [The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction) (TMD) APO (registration required):
 
 The information to be returned is the following
 

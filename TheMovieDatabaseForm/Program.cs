@@ -1,11 +1,11 @@
 using System;
-using Form_TMDb.Models;
+using TheMovieDatabaseForm.Models;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using TMDbFormApp;
 
-namespace Form_TMDb
+namespace TheMovieDatabaseForm
 {
     internal static class Program
     {

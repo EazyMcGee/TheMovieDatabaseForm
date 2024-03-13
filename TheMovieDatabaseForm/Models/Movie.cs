@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Form_TMDb.Models
+namespace TheMovieDatabaseForm.Models
 {
 
     public class TMDbSearchResult<T>

@@ -1,5 +1,5 @@
 using System.Net;
-using Form_TMDb.Models;
+using TheMovieDatabaseForm.Models;
 
 namespace TMDbFormApp
 {
