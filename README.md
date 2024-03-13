@@ -1,4 +1,4 @@
-# Form_TMDb
+# TheMovieDatabaseForm
 The goal of this application is to create a REST service that:
 
 - Shows information about a movie by its title
