@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dilla\\Downloads\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\TheMovieDatabaseForm.csproj": {}
+    "F:\\Programming\\Projects\\Visual Studio Projects\\C#\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\TheMovieDatabaseForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dilla\\Downloads\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\TheMovieDatabaseForm.csproj": {
+    "F:\\Programming\\Projects\\Visual Studio Projects\\C#\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\TheMovieDatabaseForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dilla\\Downloads\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\TheMovieDatabaseForm.csproj",
+        "projectUniqueName": "F:\\Programming\\Projects\\Visual Studio Projects\\C#\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\TheMovieDatabaseForm.csproj",
         "projectName": "TheMovieDatabaseForm",
-        "projectPath": "C:\\Users\\Dilla\\Downloads\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\TheMovieDatabaseForm.csproj",
+        "projectPath": "F:\\Programming\\Projects\\Visual Studio Projects\\C#\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\TheMovieDatabaseForm.csproj",
         "packagesPath": "C:\\Users\\Dilla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dilla\\Downloads\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\obj\\",
+        "outputPath": "F:\\Programming\\Projects\\Visual Studio Projects\\C#\\TheMovieDatabaseForm\\TheMovieDatabaseForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Programming\\Visual Studio\\Shared\\NuGetPackages"

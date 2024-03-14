@@ -18,3 +18,23 @@ C:\Users\Dilla\Downloads\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net
 C:\Users\Dilla\Downloads\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.pdb
 C:\Users\Dilla\Downloads\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.genruntimeconfig.cache
 C:\Users\Dilla\Downloads\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\ref\TheMovieDatabaseForm.dll
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\bin\Debug\net8.0-windows\TheMovieDatabaseForm.exe
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\bin\Debug\net8.0-windows\TheMovieDatabaseForm.deps.json
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\bin\Debug\net8.0-windows\TheMovieDatabaseForm.runtimeconfig.json
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\bin\Debug\net8.0-windows\TheMovieDatabaseForm.dll
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\bin\Debug\net8.0-windows\TheMovieDatabaseForm.pdb
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\bin\Debug\net8.0-windows\RestSharp.dll
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.csproj.AssemblyReference.cache
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TMDbFormApp.Form1.resources
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.csproj.GenerateResource.cache
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.AssemblyInfoInputs.cache
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.AssemblyInfo.cs
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.csproj.CoreCompileInputs.cache
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.csproj.CopyComplete
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.dll
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\refint\TheMovieDatabaseForm.dll
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.pdb
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\TheMovieDatabaseForm.genruntimeconfig.cache
+F:\Programming\Projects\Visual Studio Projects\C#\TheMovieDatabaseForm\TheMovieDatabaseForm\obj\Debug\net8.0-windows\ref\TheMovieDatabaseForm.dll
