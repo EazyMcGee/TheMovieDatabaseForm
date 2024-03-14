@@ -16,4 +16,4 @@ The information to be returned is the following
 - Movie Description
 - List (5 max) of films with similar themes. NOTE: You will need to search that movie to get information returned
 
-* When searching by title the TMD API may return more than one result, it will return the first of the results
+* When searching by title the TMD API may return more than one result, the application will return the first of the results
